@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PromoItProject.DAL",
+    "\\PromoItProject.Data.Sql",
+    "\\PromoItProject.Entities",
+    "\\PromoItProject.MicroService",
+    "\\PromoItProject.Model"
+  ],
+  "SelectedNode": "\\PromoItProject.Entities\\Twitter.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,14 @@
+.spinner {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto !important;
+}
+
+.header {
+  margin-bottom: 20px !important;
+}
+
+.table-container {
+  margin-bottom: 50px !important;
+}

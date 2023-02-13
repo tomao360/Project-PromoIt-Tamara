@@ -1,0 +1,35 @@
+.select-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 5px !important;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.select-header {
+  display: flex !important;
+  align-items: center !important;
+  margin: 5px !important;
+}
+
+.select-button {
+  margin-left: 8px;
+}
+
+.title {
+  width: 200px;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.first {
+  margin-right: 15px;
+  width: 210px;
+}
+
+.report {
+  margin-top: 35px !important;
+}

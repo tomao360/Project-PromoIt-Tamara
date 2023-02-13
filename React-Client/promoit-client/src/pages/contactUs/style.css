@@ -1,0 +1,40 @@
+.contactUS-container {
+  width: 800px !important;
+  text-align: start;
+  margin: 0 auto;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.contactUS-h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.p-contactUS {
+  margin-top: 25px !important;
+  margin-bottom: 30px !important;
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+
+.email-input {
+  box-shadow: none !important;
+  background-color: #a3a3a3ae !important;
+  border: none !important;
+}
+
+.email-input :focus {
+  background-color: #a3a3a3ae !important;
+}
+
+.send-button {
+  display: flex;
+  justify-content: center;
+}
+
+.area-text {
+  max-height: 300px !important;
+}

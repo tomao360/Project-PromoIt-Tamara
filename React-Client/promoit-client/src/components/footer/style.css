@@ -1,0 +1,13 @@
+.footer-container {
+  background-color: #414141 !important;
+  color: rgb(255, 255, 255);
+  height: 30px !important;
+  text-align: end;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.p-footer {
+  margin-right: 20px !important;
+}

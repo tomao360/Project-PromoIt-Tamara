@@ -1,0 +1,381 @@
+2/13/2023 11:27:18 PM: Event: Program Started
+2/13/2023 11:27:18 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:27:19 PM: Event: Got a User Role from Auth0
+2/13/2023 11:27:20 PM: Event: All Users were received from DB
+2/13/2023 11:27:20 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:27:20 PM: Event: All Users were received from DB
+2/13/2023 11:27:20 PM: Event: Got a User Role from Auth0
+2/13/2023 11:27:32 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:27:32 PM: Event: All Users were received from DB
+2/13/2023 11:27:32 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:27:32 PM: Event: All Users were received from DB
+2/13/2023 11:27:33 PM: Event: Got a User Role from Auth0
+2/13/2023 11:27:33 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:27:33 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:27:33 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:27:33 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:27:33 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:27:33 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:27:33 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:27:33 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:27:34 PM: Event: Got a User Role from Auth0
+2/13/2023 11:27:54 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:27:54 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:27:54 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:27:54 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:27:54 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:27:54 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:27:54 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:27:54 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:28:01 PM: Event: Started updating the Campaign ('Fighting Global Warming') in the DB (Execute function in CampaignsUpdateCmd class)
+2/13/2023 11:28:01 PM: Event: Campaign - 'Fighting Global Warming' updated successfully
+2/13/2023 11:28:02 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:28:02 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:28:02 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:28:02 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:28:02 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:28:02 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:28:02 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:28:02 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:28:25 PM: Event: Start to insert the Campaign - 'a' to DB (Execute function in CampaignsAddCmd class)
+2/13/2023 11:28:25 PM: Event: Campaign ('a') inserted successfully into the DB
+2/13/2023 11:28:34 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:28:34 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:28:34 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:28:34 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:28:44 PM: Event: Started updating the Non-Profit Organization ('Green Peace') in the DB (Execute function in OrganizationsUpdateCmd class)
+2/13/2023 11:28:44 PM: Event: Non-Profit Organization - 'Green Peace' updated successfully
+2/13/2023 11:28:45 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:28:45 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:28:45 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:28:45 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:29:02 PM: Event: Started updating the Non-Profit Organization ('Green Peace') in the DB (Execute function in OrganizationsUpdateCmd class)
+2/13/2023 11:29:02 PM: Event: Non-Profit Organization - 'Green Peace' updated successfully
+2/13/2023 11:29:03 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:29:03 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:29:03 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:29:03 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:29:09 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:29:09 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:29:09 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:29:09 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:29:09 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:29:09 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:29:09 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:29:09 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:29:14 PM: Event: Start deleting Campaign (Campaign ID - 7) from DB (Execute function in CampaignsRemoveCmd class)
+2/13/2023 11:29:14 PM: Event: The Campaign (Campaign ID - 7) deleted successfully from DB
+2/13/2023 11:29:42 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:29:42 PM: Event: All Users were received from DB
+2/13/2023 11:29:42 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:29:42 PM: Event: All Users were received from DB
+2/13/2023 11:29:42 PM: Event: Got a User Role from Auth0
+2/13/2023 11:29:42 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:29:42 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:29:42 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:29:42 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:29:42 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:29:42 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:29:42 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:29:42 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:29:43 PM: Event: Got a User Role from Auth0
+2/13/2023 11:30:05 PM: Event: Start to insert the Donated Product - 'Computer' to DB (Execute function in ProductsAddCmd class)
+2/13/2023 11:30:05 PM: Event: Donated Product ('Computer') inserted successfully into the DB
+2/13/2023 11:30:05 PM: Event: Start to insert the Donated Product - 'Computer' to DB (Execute function in ProductsAddCmd class)
+2/13/2023 11:30:05 PM: Event: Donated Product ('Computer') inserted successfully into the DB
+2/13/2023 11:30:05 PM: Event: Start to insert the Donated Product - 'Computer' to DB (Execute function in ProductsAddCmd class)
+2/13/2023 11:30:05 PM: Event: Donated Product ('Computer') inserted successfully into the DB
+2/13/2023 11:30:48 PM: Event: Start retrieving all the Donated Products of Business Company by Business Company ID (Business Company ID - 1) from DB (Execute function in ProductsGetCmd class)
+2/13/2023 11:30:48 PM: Event: All the Donated Products of Business Company by Business Company ID (Business Company ID - 1) were received from DB
+2/13/2023 11:30:48 PM: Event: Start retrieving all the Donated Products of Business Company by Business Company ID (Business Company ID - 1) from DB (Execute function in ProductsGetCmd class)
+2/13/2023 11:30:48 PM: Event: All the Donated Products of Business Company by Business Company ID (Business Company ID - 1) were received from DB
+2/13/2023 11:31:13 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:13 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:13 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:13 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:13 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:13 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:13 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:13 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:13 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:13 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:27 PM: Event: Started updating the Donated Product Shipped status ('5') in the DB (Execute function in ProductsUpdateBoughtCmd class)
+2/13/2023 11:31:27 PM: Event: Donated Product Shipped status - '5' updated successfully
+2/13/2023 11:31:27 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:27 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:27 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:27 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:27 PM: Event: Start retrieving all the Shipments by Business ID (Business ID - 1) from DB (Execute function in CompaniesGetShipmentByIDCmd class)
+2/13/2023 11:31:27 PM: Event: All Shipments were received from DB
+2/13/2023 11:31:30 PM: Event: Start retrieving all the Donated Products of Business Company by Business Company ID (Business Company ID - 1) from DB (Execute function in ProductsGetCmd class)
+2/13/2023 11:31:30 PM: Event: All the Donated Products of Business Company by Business Company ID (Business Company ID - 1) were received from DB
+2/13/2023 11:31:30 PM: Event: Start retrieving all the Donated Products of Business Company by Business Company ID (Business Company ID - 1) from DB (Execute function in ProductsGetCmd class)
+2/13/2023 11:31:30 PM: Event: All the Donated Products of Business Company by Business Company ID (Business Company ID - 1) were received from DB
+2/13/2023 11:31:50 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:31:50 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:31:50 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:31:50 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:31:56 PM: Event: Started updating the Business Company ('Electrical Solutions2') in the DB (Execute function in CompaniesUpdateCmd class)
+2/13/2023 11:31:56 PM: Event: Business Company - 'Electrical Solutions2' updated successfully
+2/13/2023 11:31:57 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:31:57 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:31:57 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:31:57 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:32:04 PM: Event: Started updating the Business Company ('Electrical Solutions') in the DB (Execute function in CompaniesUpdateCmd class)
+2/13/2023 11:32:04 PM: Event: Business Company - 'Electrical Solutions' updated successfully
+2/13/2023 11:32:05 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:32:05 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:32:05 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:32:05 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:32:06 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:32:06 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:32:06 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:32:06 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:32:06 PM: Event: Start retrieving all the Business Companies by Email (Email - tomi123@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:32:06 PM: Event: All the Business Companies by Email (Email - tomi123@gmail.com) were received from DB
+2/13/2023 11:32:06 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:32:06 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:32:27 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:32:27 PM: Event: All Users were received from DB
+2/13/2023 11:32:27 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:32:27 PM: Event: All Users were received from DB
+2/13/2023 11:32:28 PM: Event: Got a User Role from Auth0
+2/13/2023 11:32:28 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:32:28 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:32:28 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:32:28 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:32:28 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:32:28 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:32:28 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:32:28 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:32:28 PM: Event: Got a User Role from Auth0
+2/13/2023 11:33:06 PM: Event: Start to insert the Active Campaign - 'Protecting Our Oceans' to DB (Execute function in ActiveCampaignsAddCmd class)
+2/13/2023 11:33:06 PM: Event: Active Campaign ('Protecting Our Oceans') inserted successfully into the DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:18 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:18 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:18 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:18 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:18 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:18 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:18 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:18 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:18 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:18 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:18 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:47 PM: Event: Started updating the Donated Product Bought status ('18') in the DB (Execute function in ProductsUpdateBoughtCmd class)
+2/13/2023 11:33:47 PM: Event: Donated Product Bought status - '18' updated successfully
+2/13/2023 11:33:47 PM: Event: Started updating the Active Campaign ('Fighting Global Warming') in the DB (Execute function in ActiveCampaignsUpdateSubtractMoney class)
+2/13/2023 11:33:47 PM: Event: Active Campaign - 'Fighting Global Warming' updated successfully
+2/13/2023 11:33:47 PM: Event: A tweet posted in Twitter
+2/13/2023 11:33:47 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:47 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:47 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:47 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:47 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:47 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:33:47 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:33:47 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:47 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:47 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:33:47 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:33:47 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:35:57 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:35:57 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:35:57 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:35:57 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:35:57 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:35:57 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:35:57 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Active Campaigns by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCampaignsCmd class)
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:35:57 PM: Event: All Active Campaigns were received from DB
+2/13/2023 11:35:57 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:35:57 PM: Event: Start retrieving all the Donated Products by Activist ID (Activist ID - 1) from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:35:57 PM: Event: All the Donated Products by Activist ID (Activist ID - 1) were received from DB
+2/13/2023 11:36:06 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:36:06 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:36:06 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:36:06 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:36:13 PM: Event: Started updating the Social Activist ('Tamara Osipov') in the DB (Execute function in ActivistUpdateCmd class)
+2/13/2023 11:36:13 PM: Event: Social Activist - 'Tamara Osipov' updated successfully
+2/13/2023 11:36:14 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:36:14 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:36:14 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:36:14 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:36:20 PM: Event: Started updating the Social Activist ('Tamara Osipov') in the DB (Execute function in ActivistUpdateCmd class)
+2/13/2023 11:36:20 PM: Event: Social Activist - 'Tamara Osipov' updated successfully
+2/13/2023 11:36:21 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:36:21 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:36:21 PM: Event: Start retrieving all the Social Activists by Email (Email - tomaac@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:36:21 PM: Event: All the Social Activists by Email (Email - tomaac@gmail.com) were received from DB
+2/13/2023 11:36:34 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:36:34 PM: Event: All Users were received from DB
+2/13/2023 11:36:34 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:36:34 PM: Event: All Users were received from DB
+2/13/2023 11:36:35 PM: Event: Got a User Role from Auth0
+2/13/2023 11:36:35 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:36:35 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:36:35 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:36:35 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:36:35 PM: Event: Got a User Role from Auth0
+2/13/2023 11:36:35 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:36:35 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:36:35 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:36:35 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:37:01 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:37:01 PM: Event: All the Non-Profit Organizations were received from DB
+2/13/2023 11:37:01 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:37:01 PM: Event: All the Non-Profit Organizations were received from DB
+2/13/2023 11:37:06 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:37:06 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:37:06 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+2/13/2023 11:37:06 PM: Event: All the Campaigns and their Organizations were received from DB
+2/13/2023 11:37:12 PM: Event: Start retrieving all the Business Companies from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:37:12 PM: Event: All the Business Companies were received from DB
+2/13/2023 11:37:12 PM: Event: Start retrieving all the Business Companies from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:37:12 PM: Event: All the Business Companies were received from DB
+2/13/2023 11:37:16 PM: Event: Start retrieving all the Social Activists from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:37:16 PM: Event: All the Social Activists were received from DB
+2/13/2023 11:37:16 PM: Event: Start retrieving all the Social Activists from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:37:16 PM: Event: All the Social Activists were received from DB
+2/13/2023 11:37:21 PM: Event: Start retrieving the count of Campaigns and Donated Products for Non-Profit Organization from DB (Execute function in OrganizationsGetCampaignsProductsCmd class)
+2/13/2023 11:37:21 PM: Event: All Campaigns and Donated Products for Non-Profit Organization were received from DB
+2/13/2023 11:37:21 PM: Event: Start retrieving the count of Campaigns and Donated Products for Non-Profit Organization from DB (Execute function in OrganizationsGetCampaignsProductsCmd class)
+2/13/2023 11:37:21 PM: Event: All Campaigns and Donated Products for Non-Profit Organization were received from DB
+2/13/2023 11:37:26 PM: Event: Start retrieving all the Active Campaigns from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:37:26 PM: Event: All the Active Campaigns were received from DB
+2/13/2023 11:37:26 PM: Event: Start retrieving all the Active Campaigns from DB (Execute function in ActiveCampaignsGetCmd class)
+2/13/2023 11:37:26 PM: Event: All the Active Campaigns were received from DB
+2/13/2023 11:37:30 PM: Event: Start retrieving all the Campaigns (by popularity) from DB (Execute function in CampaignsGetPopularCampaignCmd class)
+2/13/2023 11:37:30 PM: Event: All Campaigns (by popularity) were received from DB
+2/13/2023 11:37:30 PM: Event: Start retrieving all the Campaigns (by popularity) from DB (Execute function in CampaignsGetPopularCampaignCmd class)
+2/13/2023 11:37:30 PM: Event: All Campaigns (by popularity) were received from DB
+2/13/2023 11:37:42 PM: Event: Start retrieving all the Campaigns (by profitability) from DB (Execute function in CampaignsGetProfitableCampaignCmd class)
+2/13/2023 11:37:42 PM: Event: All Campaigns (by profitability) were received from DB
+2/13/2023 11:37:42 PM: Event: Start retrieving all the Campaigns (by profitability) from DB (Execute function in CampaignsGetProfitableCampaignCmd class)
+2/13/2023 11:37:42 PM: Event: All Campaigns (by profitability) were received from DB
+2/13/2023 11:37:46 PM: Event: Start retrieving all the Donated Products from DB (Execute function in ProductsGetCmd class)
+2/13/2023 11:37:46 PM: Event: All the Donated Products were received from DB
+2/13/2023 11:37:46 PM: Event: Start retrieving all the Donated Products from DB (Execute function in ProductsGetCmd class)
+2/13/2023 11:37:46 PM: Event: All the Donated Products were received from DB
+2/13/2023 11:37:55 PM: Event: Start retrieving the count of donations from DB (Execute function in CompaniesGetCountOfDonationsCmd class)
+2/13/2023 11:37:55 PM: Event: The count of donations was received from DB
+2/13/2023 11:37:55 PM: Event: Start retrieving the count of donations from DB (Execute function in CompaniesGetCountOfDonationsCmd class)
+2/13/2023 11:37:55 PM: Event: The count of donations was received from DB
+2/13/2023 11:38:01 PM: Event: Start retrieving all Shipments from DB (Execute function in CompaniesGetShipmentCmd class)
+2/13/2023 11:38:01 PM: Event: All Shipments were received from DB
+2/13/2023 11:38:01 PM: Event: Start retrieving all Shipments from DB (Execute function in CompaniesGetShipmentCmd class)
+2/13/2023 11:38:01 PM: Event: All Shipments were received from DB
+2/13/2023 11:38:19 PM: Event: Start retrieving all the Social Activists (by the count of promoted campaigns) from DB (Execute function in ActivistsGetMostPromotedCampaignsCmd class)
+2/13/2023 11:38:19 PM: Event: All Social Activists (by the count of promoted campaigns) were received from DB
+2/13/2023 11:38:19 PM: Event: Start retrieving all the Social Activists (by the count of promoted campaigns) from DB (Execute function in ActivistsGetMostPromotedCampaignsCmd class)
+2/13/2023 11:38:19 PM: Event: All Social Activists (by the count of promoted campaigns) were received from DB
+2/13/2023 11:38:22 PM: Event: Start retrieving all the Social Activists (by earned money) from DB (Execute function in ActivistsGetMostMoneyEarnedCmd class)
+2/13/2023 11:38:22 PM: Event: All Social Activists (by earned money) were received from DB
+2/13/2023 11:38:22 PM: Event: Start retrieving all the Social Activists (by earned money) from DB (Execute function in ActivistsGetMostMoneyEarnedCmd class)
+2/13/2023 11:38:22 PM: Event: All Social Activists (by earned money) were received from DB
+2/13/2023 11:38:38 PM: Event: Start retrieving all the Contact Messages from DB (Execute function in MessagesGetCmd class)
+2/13/2023 11:38:38 PM: Event: All the Contact Messages were received from DB
+2/13/2023 11:38:38 PM: Event: Start retrieving all the Contact Messages from DB (Execute function in MessagesGetCmd class)
+2/13/2023 11:38:38 PM: Event: All the Contact Messages were received from DB
+2/13/2023 11:38:44 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:38:45 PM: Event: All the Non-Profit Organizations were received from DB
+2/13/2023 11:38:45 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:38:45 PM: Event: All the Non-Profit Organizations were received from DB
+2/13/2023 11:38:49 PM: Event: Start retrieving all the Business Companies from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:38:49 PM: Event: All the Business Companies were received from DB
+2/13/2023 11:38:49 PM: Event: Start retrieving all the Business Companies from DB (Execute function in CompaniesGetCmd class)
+2/13/2023 11:38:49 PM: Event: All the Business Companies were received from DB
+2/13/2023 11:39:08 PM: Event: Start retrieving all the Social Activists from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:39:08 PM: Event: All the Social Activists were received from DB
+2/13/2023 11:39:08 PM: Event: Start retrieving all the Social Activists from DB (Execute function in ActivistsGetCmd class)
+2/13/2023 11:39:08 PM: Event: All the Social Activists were received from DB
+2/13/2023 11:39:26 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:26 PM: Event: All Users were received from DB
+2/13/2023 11:39:26 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:26 PM: Event: All Users were received from DB
+2/13/2023 11:39:27 PM: Event: Got a User Role from Auth0
+2/13/2023 11:39:27 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:27 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:27 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:27 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:27 PM: Event: Got a User Role from Auth0
+2/13/2023 11:39:27 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:27 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:27 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:27 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:42 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:42 PM: Event: All Users were received from DB
+2/13/2023 11:39:42 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:42 PM: Event: All Users were received from DB
+2/13/2023 11:39:43 PM: Event: Got a User Role from Auth0
+2/13/2023 11:39:43 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:43 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:43 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:43 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:43 PM: Event: Got a User Role from Auth0
+2/13/2023 11:39:43 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:43 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:43 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:50 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:50 PM: Event: All Users were received from DB
+2/13/2023 11:39:50 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:50 PM: Event: All Users were received from DB
+2/13/2023 11:39:50 PM: Event: Got a User Role from Auth0
+2/13/2023 11:39:50 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:50 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:50 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:50 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:51 PM: Event: Got a User Role from Auth0
+2/13/2023 11:39:51 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:51 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:39:51 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:51 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:39:54 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:39:54 PM: Event: All Users were received from DB
+2/13/2023 11:39:54 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:40:56 PM: Event: Program Started
+2/13/2023 11:40:56 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:40:56 PM: Event: All Users were received from DB
+2/13/2023 11:40:56 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:40:56 PM: Event: All Users were received from DB
+2/13/2023 11:40:57 PM: Event: Got a User Role from Auth0
+2/13/2023 11:40:57 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:40:57 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:40:57 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:40:57 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:40:57 PM: Event: Got a User Role from Auth0
+2/13/2023 11:40:57 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:40:57 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/13/2023 11:40:57 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:40:57 PM: Event: A User inserted successfully into the DB
+2/13/2023 11:42:16 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:42:16 PM: Event: All Users were received from DB
+2/13/2023 11:42:16 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/13/2023 11:42:16 PM: Event: All Users were received from DB
+2/13/2023 11:42:17 PM: Event: Got a User Role from Auth0
+2/13/2023 11:42:17 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:42:17 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:42:17 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:42:17 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+2/13/2023 11:42:17 PM: Event: All the Campaigns by Organization Email (Email - toma1212@gmail.com) were received from DB
+2/13/2023 11:42:17 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:42:17 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+2/13/2023 11:42:17 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
+2/13/2023 11:42:17 PM: Event: Got a User Role from Auth0

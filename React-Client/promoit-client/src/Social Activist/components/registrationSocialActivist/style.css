@@ -1,0 +1,29 @@
+.register-container {
+  width: 800px;
+  text-align: start;
+  margin: 0 auto;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.register-h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.email-input {
+  box-shadow: none !important;
+  background-color: #a3a3a3ae !important;
+  border: none !important;
+}
+
+.email-input :focus {
+  background-color: #a3a3a3ae !important;
+}
+
+.register-button {
+  display: flex;
+  justify-content: center;
+}

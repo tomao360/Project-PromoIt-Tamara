@@ -1,0 +1,13 @@
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\PromoItProject.Data.Sql.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\PromoItProject.Data.Sql.pdb
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\PromoItProject.DAL.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\PromoItProject.Model.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\PromoItProject.DAL.pdb
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\PromoItProject.Model.pdb
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\obj\Debug\PromoItProject.Data.Sql.csproj.AssemblyReference.cache
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\obj\Debug\PromoItProject.Data.Sql.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\obj\Debug\PromoItProject.Data.Sql.csproj.CopyComplete
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\obj\Debug\PromoItProject.Data.Sql.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\obj\Debug\PromoItProject.Data.Sql.pdb
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\Utilities.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.Data.Sql\bin\Debug\Utilities.pdb

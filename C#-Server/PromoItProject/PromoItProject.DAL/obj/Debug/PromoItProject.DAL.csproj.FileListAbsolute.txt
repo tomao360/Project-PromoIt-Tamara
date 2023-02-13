@@ -1,0 +1,6 @@
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.DAL\bin\Debug\PromoItProject.DAL.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.DAL\bin\Debug\PromoItProject.DAL.pdb
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.DAL\obj\Debug\PromoItProject.DAL.csproj.AssemblyReference.cache
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.DAL\obj\Debug\PromoItProject.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.DAL\obj\Debug\PromoItProject.DAL.dll
+D:\Programming\Zionet\PromoIt_Project - Semester_2_Project\C#-Server\PromoItProject\PromoItProject.DAL\obj\Debug\PromoItProject.DAL.pdb

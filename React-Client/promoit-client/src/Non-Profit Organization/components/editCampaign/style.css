@@ -1,0 +1,22 @@
+.container-editCampaign {
+  width: 800px;
+  text-align: start;
+  margin: 0 auto;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.edit-buttonsDiv {
+  display: flex;
+  justify-content: end;
+}
+
+.button-edit {
+  margin-left: 20px;
+}
+
+.close-button {
+  display: flex !important;
+  justify-content: end;
+}

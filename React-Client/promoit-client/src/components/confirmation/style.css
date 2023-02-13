@@ -1,0 +1,27 @@
+.confirmation-container {
+  background: rgb(191, 89, 30);
+  background: linear-gradient(
+    175deg,
+    rgba(191, 89, 30, 1) 23%,
+    rgba(255, 255, 255, 0.5637605383950455) 81%
+  );
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+  height: 100vh !important;
+  color: white !important;
+}
+
+.p-confirmation {
+  margin-top: 15px;
+  margin-bottom: 35px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.logout-button {
+  color: rgb(191, 89, 30) !important;
+  font-weight: 600 !important;
+}

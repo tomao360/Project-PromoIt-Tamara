@@ -1,0 +1,12 @@
+.card-description {
+  max-width: 400px !important;
+  max-height: 200px !important;
+  overflow: auto !important;
+}
+
+.spinner {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto !important;
+}

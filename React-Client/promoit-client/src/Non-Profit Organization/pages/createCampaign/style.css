@@ -1,0 +1,13 @@
+.container-createCampaign {
+  width: 800px;
+  text-align: start;
+  margin: 0 auto;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.create-button {
+  display: flex;
+  justify-content: center;
+}

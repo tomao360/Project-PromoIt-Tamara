@@ -1,0 +1,25 @@
+.card-profile {
+  width: 500px !important;
+  height: 300px !important;
+  margin: 0 auto !important;
+}
+
+.card-button {
+  margin-left: 30px;
+  margin-bottom: 0 !important;
+}
+.card-buttons {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+}
+
+.spinner-app {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto !important;
+}

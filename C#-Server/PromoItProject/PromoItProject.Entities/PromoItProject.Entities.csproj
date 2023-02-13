@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED993115-8CD6-4AF3-976B-9E642938F2F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PromoItProject.Entities</RootNamespace>
+    <AssemblyName>PromoItProject.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac, Version=4.9.4.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.9.4\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=108.0.3.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.108.0.3\lib\netstandard2.0\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.TypeExtensions, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reflection.TypeExtensions.4.5.1\lib\net461\System.Reflection.TypeExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.5.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.5.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tweetinvi, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.Controllers, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.Controllers.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.Core, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.Credentials, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.Credentials.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.Logic, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.Logic.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.Security, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.Streams, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweetinvi.WebLogic, Version=5.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TweetinviAPI.5.0.4\lib\netstandard2.0\Tweetinvi.WebLogic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActiveCampaigns.cs" />
+    <Compile Include="Activists.cs" />
+    <Compile Include="AzureCommands\ActiveCampaigns\ActiveCampaignsAddCmd.cs" />
+    <Compile Include="AzureCommands\ActiveCampaigns\ActiveCampaignsGetCampaignsCmd.cs" />
+    <Compile Include="AzureCommands\ActiveCampaigns\ActiveCampaignsUpdateAddMoneyCmd.cs" />
+    <Compile Include="AzureCommands\ActiveCampaigns\ActiveCampaignsUpdateSubtractMoney.cs" />
+    <Compile Include="AzureCommands\Activists\ActivistsAddCmd.cs" />
+    <Compile Include="AzureCommands\Activists\ActivistsGetMostPromotedCampaignsCmd.cs" />
+    <Compile Include="AzureCommands\Activists\ActivistsGetCmd.cs" />
+    <Compile Include="AzureCommands\Activists\ActivistsGetMostMoneyEarnedCmd.cs" />
+    <Compile Include="AzureCommands\Activists\ActivistsRemoveCmd.cs" />
+    <Compile Include="AzureCommands\Activists\ActivistUpdateCmd.cs" />
+    <Compile Include="AzureCommands\Auth0\Auth0Cmd.cs" />
+    <Compile Include="AzureCommands\BaseCommand.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesAddCmd.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesGetCmd.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesGetCountOfDonationsCmd.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesGetShipmentByIDCmd.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesGetShipmentCmd.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesRemoveCmd.cs" />
+    <Compile Include="AzureCommands\BusinessComapnies\CompaniesUpdateCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsAddCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsGetCampaignsAndORGCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsGetCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsGetPopularCampaignCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsGetProfitableCampaignCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsRemoveCmd.cs" />
+    <Compile Include="AzureCommands\Campaigns\CampaignsUpdateCmd.cs" />
+    <Compile Include="AzureCommands\Messages\MessagesAddCmd.cs" />
+    <Compile Include="AzureCommands\Messages\MessagesGetCmd.cs" />
+    <Compile Include="AzureCommands\Messages\MessagesRemoveCmd.cs" />
+    <Compile Include="AzureCommands\Organizations\OrganizationsAddCmd.cs" />
+    <Compile Include="AzureCommands\Organizations\OrganizationsGetCampaignsProductsCmd.cs" />
+    <Compile Include="AzureCommands\Organizations\OrganizationsGetCmd.cs" />
+    <Compile Include="AzureCommands\Organizations\OrganizationsRemoveCmd.cs" />
+    <Compile Include="AzureCommands\Organizations\OrganizationsUpdateCmd.cs" />
+    <Compile Include="AzureCommands\Products\ProductsAddCmd.cs" />
+    <Compile Include="AzureCommands\Products\ProductsGetCmd.cs" />
+    <Compile Include="AzureCommands\Products\ProductsUpdateBoughtCmd.cs" />
+    <Compile Include="AzureCommands\Products\ProductsUpdateShippedCmd.cs" />
+    <Compile Include="AzureCommands\Twitter\TwitterAddCmd.cs" />
+    <Compile Include="AzureCommands\Users\UsersAddCmd.cs" />
+    <Compile Include="AzureCommands\Users\UsersGetCmd.cs" />
+    <Compile Include="BaseEntity.cs" />
+    <Compile Include="BasePromotionSystem.cs" />
+    <Compile Include="BusinessCompanies.cs" />
+    <Compile Include="Campaigns.cs" />
+    <Compile Include="AzureCommands\CommandsManager.cs" />
+    <Compile Include="AzureCommands\ActiveCampaigns\ActiveCampaignsGetCmd.cs" />
+    <Compile Include="ContactUsMessages.cs" />
+    <Compile Include="DonatedProducts.cs" />
+    <Compile Include="AzureCommands\ICommand.cs" />
+    <Compile Include="MainManager.cs" />
+    <Compile Include="NonProfitOrganizations.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Utilities\Utilities\Utilities.csproj">
+      <Project>{3e8a03da-f897-451a-a4cf-a389f61bd94a}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PromoItProject.CommunicationProviders\PromoItProject.CommunicationProviders.csproj">
+      <Project>{f04f2e23-8946-4800-818a-b88f49d83475}</Project>
+      <Name>PromoItProject.CommunicationProviders</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PromoItProject.DAL\PromoItProject.DAL.csproj">
+      <Project>{bd72f59c-0b7f-4b30-bd5c-d048f2003775}</Project>
+      <Name>PromoItProject.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PromoItProject.Data.Sql\PromoItProject.Data.Sql.csproj">
+      <Project>{12d40d80-c09b-4b82-b4a1-65bcfff60fae}</Project>
+      <Name>PromoItProject.Data.Sql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PromoItProject.Model\PromoItProject.Model.csproj">
+      <Project>{0b4fb474-dda9-47fb-b7b1-d4bc174d2125}</Project>
+      <Name>PromoItProject.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
