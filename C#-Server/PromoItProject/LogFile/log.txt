@@ -379,3 +379,20 @@
 2/13/2023 11:42:17 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
 2/13/2023 11:42:17 PM: Event: A Non-Profit Organization by Organization Email (Email - toma1212@gmail.com) was received from DB
 2/13/2023 11:42:17 PM: Event: Got a User Role from Auth0
+2/14/2023 12:56:36 AM: Event: Program Started
+2/14/2023 12:56:36 AM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/14/2023 12:56:37 AM: Event: Got a User Role from Auth0
+2/14/2023 12:56:38 AM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/14/2023 12:56:38 AM: Event: All Users were received from DB
+2/14/2023 12:56:38 AM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+2/14/2023 12:56:38 AM: Event: All Users were received from DB
+2/14/2023 12:56:38 AM: Event: Got a User Role from Auth0
+2/14/2023 12:56:38 AM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/14/2023 12:56:38 AM: Event: A User inserted successfully into the DB
+2/14/2023 12:56:38 AM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/14/2023 12:56:38 AM: Event: A User inserted successfully into the DB
+2/14/2023 12:56:38 AM: Event: Got a User Role from Auth0
+2/14/2023 12:56:38 AM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/14/2023 12:56:38 AM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+2/14/2023 12:56:38 AM: Event: A User inserted successfully into the DB
+2/14/2023 12:56:38 AM: Event: A User inserted successfully into the DB
