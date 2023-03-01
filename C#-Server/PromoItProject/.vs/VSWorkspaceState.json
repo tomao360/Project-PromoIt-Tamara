@@ -4,9 +4,10 @@
     "\\PromoItProject.DAL",
     "\\PromoItProject.Data.Sql",
     "\\PromoItProject.Entities",
+    "\\PromoItProject.Entities.Test",
     "\\PromoItProject.MicroService",
     "\\PromoItProject.Model"
   ],
-  "SelectedNode": "\\PromoItProject.Entities\\Twitter.cs",
+  "SelectedNode": "\\PromoItProject.Entities.Test\\TestNonProfitOrganizations.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -14,6 +14,9 @@ namespace PromoItProject.Data.Sql
     {
         public BusinessReportSql(Logger log) : base(log) { }
 
+        // Connection string
+        public static string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+
 
         // A function that adds business company to a list by order of products count
         public List<BusinessReport> CountOfDonations()
@@ -23,9 +26,6 @@ namespace PromoItProject.Data.Sql
 
             // Clear the list before adding new data
             countOfDonationsList.Clear();
-
-            // Connection string
-            string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
 
             try
             {

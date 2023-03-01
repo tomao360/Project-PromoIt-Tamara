@@ -17,7 +17,7 @@ namespace PromoItProject.Data.Sql
 
 
         // Connection string
-        private string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+        public static string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
 
 
         // A function that inserts a product to the Donated_Products table in SQL

@@ -396,3 +396,243 @@
 2/14/2023 12:56:38 AM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
 2/14/2023 12:56:38 AM: Event: A User inserted successfully into the DB
 2/14/2023 12:56:38 AM: Event: A User inserted successfully into the DB
+3/1/2023 12:54:53 PM: Event: Program Started
+3/1/2023 12:54:53 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 12:54:55 PM: Event: Got a User Role from Auth0
+3/1/2023 12:54:56 PM: Event: Got a User Role from Auth0
+3/1/2023 12:54:59 PM: Event: All Users were received from DB
+3/1/2023 12:54:59 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 12:54:59 PM: Event: All Users were received from DB
+3/1/2023 12:56:01 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 12:56:01 PM: Event: All Users were received from DB
+3/1/2023 12:56:01 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 12:56:01 PM: Event: All Users were received from DB
+3/1/2023 12:56:02 PM: Event: Got a User Role from Auth0
+3/1/2023 12:56:02 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - 345@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 12:56:02 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - 345@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+3/1/2023 12:56:02 PM: Event: Got a User Role from Auth0
+3/1/2023 12:56:02 PM: Event: A Non-Profit Organization by Organization Email (Email - 345@gmail.com) was received from DB
+3/1/2023 12:56:02 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - 345@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 12:56:02 PM: Event: A Non-Profit Organization by Organization Email (Email - 345@gmail.com) was received from DB
+3/1/2023 12:56:02 PM: Event: All the Campaigns by Organization Email (Email - 345@gmail.com) were received from DB
+3/1/2023 12:56:02 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - 345@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+3/1/2023 12:56:02 PM: Event: All the Campaigns by Organization Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:09:39 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:09:39 PM: Event: All Users were received from DB
+3/1/2023 1:09:39 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:09:39 PM: Event: All Users were received from DB
+3/1/2023 1:09:40 PM: Event: Got a User Role from Auth0
+3/1/2023 1:09:40 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:09:40 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:09:40 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:09:40 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:09:41 PM: Event: Got a User Role from Auth0
+3/1/2023 1:09:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:09:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:09:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:09:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:09:48 PM: Event: Start to insert the Non-Profit Organization - 'a' to DB (Execute function in OrganizationsAddCmd class)
+3/1/2023 1:09:48 PM: Event: Non-Profit Organization ('a') inserted successfully into the DB
+3/1/2023 1:09:48 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - 345@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:09:48 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - 345@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+3/1/2023 1:09:48 PM: Event: A Non-Profit Organization by Organization Email (Email - 345@gmail.com) was received from DB
+3/1/2023 1:09:48 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - 345@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:09:48 PM: Event: A Non-Profit Organization by Organization Email (Email - 345@gmail.com) was received from DB
+3/1/2023 1:09:48 PM: Event: All the Campaigns by Organization Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:09:48 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - 345@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+3/1/2023 1:09:48 PM: Event: All the Campaigns by Organization Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:10:20 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:10:20 PM: Event: All Users were received from DB
+3/1/2023 1:10:20 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:10:20 PM: Event: All Users were received from DB
+3/1/2023 1:10:21 PM: Event: Got a User Role from Auth0
+3/1/2023 1:10:21 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:21 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:21 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:21 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:21 PM: Event: Got a User Role from Auth0
+3/1/2023 1:10:21 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:21 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:21 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:21 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:25 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:10:25 PM: Event: All the Non-Profit Organizations were received from DB
+3/1/2023 1:10:25 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:10:25 PM: Event: All the Non-Profit Organizations were received from DB
+3/1/2023 1:10:27 PM: Event: Start deleting the Non-Profit Organization (Non-Profit Organization ID - 12) from DB (Execute function in OrganizationsRemoveCmd class)
+3/1/2023 1:10:28 PM: Event: The Non-Profit Organization (Non-Profit Organization ID - 12) deleted successfully from DB
+3/1/2023 1:10:40 PM: Event: Start deleting the Non-Profit Organization (Non-Profit Organization ID - 12) from DB (Execute function in OrganizationsRemoveCmd class)
+3/1/2023 1:10:40 PM: Event: The Non-Profit Organization (Non-Profit Organization ID - 12) deleted successfully from DB
+3/1/2023 1:10:56 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:10:56 PM: Event: All Users were received from DB
+3/1/2023 1:10:56 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:10:56 PM: Event: All Users were received from DB
+3/1/2023 1:10:56 PM: Event: Got a User Role from Auth0
+3/1/2023 1:10:56 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:56 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:56 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:56 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:57 PM: Event: Got a User Role from Auth0
+3/1/2023 1:10:57 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:57 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:10:57 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:10:57 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:11:01 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:11:01 PM: Event: All the Non-Profit Organizations were received from DB
+3/1/2023 1:11:01 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:11:01 PM: Event: All the Non-Profit Organizations were received from DB
+3/1/2023 1:14:33 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:14:33 PM: Event: All Users were received from DB
+3/1/2023 1:14:33 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:14:33 PM: Event: All Users were received from DB
+3/1/2023 1:14:34 PM: Event: Got a User Role from Auth0
+3/1/2023 1:14:34 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:34 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:34 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:34 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:34 PM: Event: Got a User Role from Auth0
+3/1/2023 1:14:34 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:34 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:34 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:34 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:37 PM: Event: Start to insert the Non-Profit Organization - 'a' to DB (Execute function in OrganizationsAddCmd class)
+3/1/2023 1:14:37 PM: Event: Non-Profit Organization ('a') inserted successfully into the DB
+3/1/2023 1:14:37 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - 345@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:14:37 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - 345@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+3/1/2023 1:14:37 PM: Event: A Non-Profit Organization by Organization Email (Email - 345@gmail.com) was received from DB
+3/1/2023 1:14:37 PM: Event: Start retrieving a Non-Profit Organization by Organization Email (Email - 345@gmail.com) from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:14:37 PM: Event: A Non-Profit Organization by Organization Email (Email - 345@gmail.com) was received from DB
+3/1/2023 1:14:37 PM: Event: All the Campaigns by Organization Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:14:37 PM: Event: Start retrieving all the Campaigns by Organization Email (Email - 345@gmail.com) from DB (Execute function in CampaignsGetCmd class)
+3/1/2023 1:14:37 PM: Event: All the Campaigns by Organization Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:14:51 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:14:51 PM: Event: All Users were received from DB
+3/1/2023 1:14:51 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:14:51 PM: Event: All Users were received from DB
+3/1/2023 1:14:51 PM: Event: Got a User Role from Auth0
+3/1/2023 1:14:51 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:51 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:51 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:51 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:52 PM: Event: Got a User Role from Auth0
+3/1/2023 1:14:52 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:52 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:14:52 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:52 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:14:56 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:14:56 PM: Event: All the Non-Profit Organizations were received from DB
+3/1/2023 1:14:56 PM: Event: Start retrieving all the Non-Profit Organizations from DB (Execute function in OrganizationsGetCmd class)
+3/1/2023 1:14:56 PM: Event: All the Non-Profit Organizations were received from DB
+3/1/2023 1:14:59 PM: Event: Start deleting the Non-Profit Organization (Non-Profit Organization ID - 13) from DB (Execute function in OrganizationsRemoveCmd class)
+3/1/2023 1:14:59 PM: Event: The Non-Profit Organization (Non-Profit Organization ID - 13) deleted successfully from DB
+3/1/2023 1:21:40 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:21:40 PM: Event: All Users were received from DB
+3/1/2023 1:21:40 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:21:40 PM: Event: All Users were received from DB
+3/1/2023 1:21:41 PM: Event: Got a User Role from Auth0
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:21:41 PM: Event: Got a User Role from Auth0
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:21:41 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:21:41 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:22:40 PM: Event: All Users were received from DB
+3/1/2023 1:22:40 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:22:40 PM: Event: All Users were received from DB
+3/1/2023 1:22:41 PM: Event: Got a User Role from Auth0
+3/1/2023 1:22:41 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+3/1/2023 1:22:41 PM: Event: All the Campaigns and their Organizations were received from DB
+3/1/2023 1:22:41 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+3/1/2023 1:22:41 PM: Event: All the Campaigns and their Organizations were received from DB
+3/1/2023 1:22:41 PM: Event: Start retrieving all the Business Companies by Email (Email - 345@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+3/1/2023 1:22:41 PM: Event: All the Business Companies by Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:22:41 PM: Event: Start retrieving all the Business Companies by Email (Email - 345@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+3/1/2023 1:22:41 PM: Event: All the Business Companies by Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:22:41 PM: Event: Got a User Role from Auth0
+3/1/2023 1:25:02 PM: Event: All Users were received from DB
+3/1/2023 1:25:02 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:25:02 PM: Event: All Users were received from DB
+3/1/2023 1:25:03 PM: Event: Got a User Role from Auth0
+3/1/2023 1:25:03 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:03 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:03 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:25:03 PM: Event: Got a User Role from Auth0
+3/1/2023 1:25:03 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:03 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:03 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:25:06 PM: Event: Start to insert the Business Company - 'a' to DB (Execute function in CompaniesAddCmd class)
+3/1/2023 1:25:06 PM: Event: Business Company ('a') inserted successfully into the DB
+3/1/2023 1:25:06 PM: Event: Start retrieving all the Business Companies by Email (Email - 345@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+3/1/2023 1:25:06 PM: Event: All the Business Companies by Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:25:06 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+3/1/2023 1:25:06 PM: Event: All the Campaigns and their Organizations were received from DB
+3/1/2023 1:25:06 PM: Event: Start retrieving all the Business Companies by Email (Email - 345@gmail.com) from DB (Execute function in CompaniesGetCmd class)
+3/1/2023 1:25:06 PM: Event: All the Business Companies by Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:25:06 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+3/1/2023 1:25:06 PM: Event: All the Campaigns and their Organizations were received from DB
+3/1/2023 1:25:41 PM: Event: All Users were received from DB
+3/1/2023 1:25:41 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:25:41 PM: Event: All Users were received from DB
+3/1/2023 1:25:42 PM: Event: Got a User Role from Auth0
+3/1/2023 1:25:42 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:42 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:25:42 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:42 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:25:42 PM: Event: Got a User Role from Auth0
+3/1/2023 1:25:42 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:42 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:25:42 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:25:47 PM: Event: Start retrieving all the Business Companies from DB (Execute function in CompaniesGetCmd class)
+3/1/2023 1:25:47 PM: Event: All the Business Companies were received from DB
+3/1/2023 1:25:47 PM: Event: Start retrieving all the Business Companies from DB (Execute function in CompaniesGetCmd class)
+3/1/2023 1:25:47 PM: Event: All the Business Companies were received from DB
+3/1/2023 1:25:52 PM: Event: Start deleting Business Company (Business Company ID - 3) from DB (Execute function in CompaniesRemoveCmd class)
+3/1/2023 1:25:52 PM: Event: The Business Company (Business Company ID - 3) deleted successfully from DB
+3/1/2023 1:26:37 PM: Event: All Users were received from DB
+3/1/2023 1:26:37 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:26:37 PM: Event: All Users were received from DB
+3/1/2023 1:26:37 PM: Event: Got a User Role from Auth0
+3/1/2023 1:26:37 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:26:37 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:26:37 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:26:38 PM: Event: Got a User Role from Auth0
+3/1/2023 1:26:38 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:26:38 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:26:38 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:26:42 PM: Event: Start to insert the Social Activist - 'a' to DB (Execute function in ActivistsAddCmd class)
+3/1/2023 1:26:42 PM: Event: Social Activist ('a') inserted successfully into the DB
+3/1/2023 1:26:42 PM: Event: Start retrieving all the Social Activists by Email (Email - 345@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+3/1/2023 1:26:42 PM: Event: All the Social Activists by Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:26:42 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+3/1/2023 1:26:42 PM: Event: All the Campaigns and their Organizations were received from DB
+3/1/2023 1:26:42 PM: Event: Start retrieving all the Social Activists by Email (Email - 345@gmail.com) from DB (Execute function in ActivistsGetCmd class)
+3/1/2023 1:26:42 PM: Event: All the Social Activists by Email (Email - 345@gmail.com) were received from DB
+3/1/2023 1:26:42 PM: Event: Start retrieving the Campaigns and their Organizations from DB (Execute function in CampaignsGetCampaignsAndORGCmd class)
+3/1/2023 1:26:42 PM: Event: All the Campaigns and their Organizations were received from DB
+3/1/2023 1:27:03 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+3/1/2023 1:27:03 PM: Event: All Users were received from DB
+3/1/2023 1:27:03 PM: Event: Got a User Role from Auth0
+3/1/2023 1:27:03 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:27:03 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:27:03 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:27:04 PM: Event: Got a User Role from Auth0
+3/1/2023 1:27:04 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:27:04 PM: Event: Start to insert a User to DB (Execute function in UsersAddCmd class)
+3/1/2023 1:27:04 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:27:04 PM: Event: A User inserted successfully into the DB
+3/1/2023 1:27:07 PM: Event: Start retrieving all the Social Activists from DB (Execute function in ActivistsGetCmd class)
+3/1/2023 1:27:08 PM: Event: All the Social Activists were received from DB
+3/1/2023 1:27:08 PM: Event: Start retrieving all the Social Activists from DB (Execute function in ActivistsGetCmd class)
+3/1/2023 1:27:08 PM: Event: All the Social Activists were received from DB
+3/1/2023 1:27:10 PM: Event: Start deleting Social Activist (Social Activist ID - 2) from DB (Execute function in ActivistsRemoveCmd class)
+3/1/2023 1:27:10 PM: Event: The Social Activist (Social Activist ID - 2) deleted successfully from DB

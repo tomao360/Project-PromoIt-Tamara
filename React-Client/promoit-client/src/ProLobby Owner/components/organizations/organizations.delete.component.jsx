@@ -31,7 +31,7 @@ export const OrganizationsDelete = (props) => {
     let newOrganizationsArr = organizationArr.filter(
       (s) => s.OrganizationID !== OrganizationID
     );
-    setOrganizationArr(newOrganizationsArr);
+    setFilteredOrganizationArr(newOrganizationsArr);
   };
 
   //search the search input value and show the result in the table

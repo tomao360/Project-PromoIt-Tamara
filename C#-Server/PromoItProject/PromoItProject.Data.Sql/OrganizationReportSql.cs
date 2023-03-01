@@ -16,7 +16,7 @@ namespace PromoItProject.Data.Sql
 
 
         // Connection string
-        private string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+        public static string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
 
 
         // A function that adds campaigns to a list by order of campaign's popularity

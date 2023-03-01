@@ -11,6 +11,9 @@ namespace PromoItProject.DAL
 {
     public class SqlQuery
     {
+        // Connection string
+        public static string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+
         //Delegate
         public delegate object SetResultDataReader_delegate(SqlDataReader reader);
 
@@ -18,8 +21,7 @@ namespace PromoItProject.DAL
         public static object RunCommandResult(string sqlQuery, SetResultDataReader_delegate func)
         {
             object ret = null;
-            string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
-
+            
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string queryString = sqlQuery;
@@ -44,7 +46,6 @@ namespace PromoItProject.DAL
         public static object RunCommandResultStoredProcedure(string storedProcedure, SetResultDataReader_delegate func)
         {
             object ret = null;
-            string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {

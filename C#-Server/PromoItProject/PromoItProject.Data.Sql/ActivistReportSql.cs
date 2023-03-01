@@ -16,7 +16,7 @@ namespace PromoItProject.Data.Sql
 
 
         // Connection string
-        private string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+        public static string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
 
 
         // A function that adds social activists to a list by order of money earned

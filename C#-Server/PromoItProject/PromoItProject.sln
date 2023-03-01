@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\..\..\Utili
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromoItProject.CommunicationProviders", "PromoItProject.CommunicationProviders\PromoItProject.CommunicationProviders.csproj", "{F04F2E23-8946-4800-818A-B88F49D83475}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromoItProject.Entities.Test", "PromoItProject.Entities.Test\PromoItProject.Entities.Test.csproj", "{FCD9E416-610A-4D42-8F2E-DFD5AFB08542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F04F2E23-8946-4800-818A-B88F49D83475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F04F2E23-8946-4800-818A-B88F49D83475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F04F2E23-8946-4800-818A-B88F49D83475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD9E416-610A-4D42-8F2E-DFD5AFB08542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD9E416-610A-4D42-8F2E-DFD5AFB08542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD9E416-610A-4D42-8F2E-DFD5AFB08542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD9E416-610A-4D42-8F2E-DFD5AFB08542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

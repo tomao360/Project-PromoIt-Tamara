@@ -18,7 +18,7 @@ namespace PromoItProject.Data.Sql
 
 
         // Connection string
-        private string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+        public static string connectionString = Environment.GetEnvironmentVariable("ConnectionString");
 
 
         // A delegate function that adds the campaigns to dictionary 

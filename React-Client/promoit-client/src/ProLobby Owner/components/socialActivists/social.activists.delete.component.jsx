@@ -29,7 +29,7 @@ export const SocialActivistsDelete = (props) => {
     let newActivistsArr = activistArr.filter(
       (a) => a.ActivistID !== ActivistID
     );
-    setActivistArr(newActivistsArr);
+    setFilteredActivistArr(newActivistsArr);
   };
 
   //search the search input value and show the result in the table

@@ -30,7 +30,7 @@ export const BusinessCompaniesDelete = (props) => {
     let newBusinessCompaniesArr = businessCompaniesArr.filter(
       (b) => b.BusinessID !== BusinessID
     );
-    setBusinessCompaniesArr(newBusinessCompaniesArr);
+    setFilteredBusinessCompaniesArr(newBusinessCompaniesArr);
   };
 
   //search the search input value and show the result in the table

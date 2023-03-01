@@ -1,0 +1,6 @@
+D:\Programming\Zionet\Utilities\Utilities\bin\Debug\Utilities.dll
+D:\Programming\Zionet\Utilities\Utilities\bin\Debug\Utilities.pdb
+D:\Programming\Zionet\Utilities\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Programming\Zionet\Utilities\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\Utilities\Utilities\obj\Debug\Utilities.dll
+D:\Programming\Zionet\Utilities\Utilities\obj\Debug\Utilities.pdb
